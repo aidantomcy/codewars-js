@@ -1,2 +1,2 @@
 # codewars-js
-My daily Codewars challenges in JavaScript
+My solutions for Codewars challenges in JavaScript
